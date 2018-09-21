@@ -1,12 +1,17 @@
 # Micron Technology (NASDAQ: MU)
 
+2018-09-21
+
 * Fear of cyclic historical patterns being repeated
 * Will this time be different?
 
 ## Overview
 
 ### Share Price
+
 ![alt text](share_price.png "")
+
+Source: [Avanza](https://www.avanza.se/aktier/om-aktien.html/214533/micron-technology-inc)
 
 ### EPS history
 
@@ -45,6 +50,7 @@ Author: Joe Albano
 [(Seeking Alpha)](https://seekingalpha.com/article/4205887-micron-secular-seasonal-cyclical)
 
 __Cyclical profitability__
+
 ![alt text](micron_history.png "")
 
 __Consolidation__
